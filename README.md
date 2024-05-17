@@ -31,9 +31,11 @@ I am a fresh graduate with a passion for Data Science, Data Analyst, Machine Lea
 
 ### 🛠️ Projects
 
-- [Mendaur-App](https://github.com/Bam280/mendaur-app) - Mendaur is an application that can detect organic and inorganic garbage and provides recycling advice. Mendaur's advanced waste detection system helps clients choose recycling options. Mendaur recycles non-organic waste and locates convenient waste disposal locations.
+- [Mendaur-App](https://github.com/Bam280/mendaur-app) - Mendaur is an application that can detect organic and inorganic garbage and provides recycling advice. Mendaur's advanced waste detection system helps clients choose recycling options.
 - [Phone Sales Analyst](https://github.com/RIFFMBR20/Phone_Sales_Analyst) - This project aims to analyze mobile phone data to gain insights into the market trends, user preferences, and product performance in market
-- [Project_Capstone_Udemy Data analyst_and_DataScience_Course](https://github.com/RIFFMBR20/Project_Capstone_UdemyDataanalyst_and_DataScience_Course) - Welcome to the Data Science course capstone project repository! This repository hosts all the code and resources associated with the Udemy course "Data Science in a week" 
+- [Spotify Review Sentiment Analyst](https://github.com/RIFFMBR20/App_Reviews_Sentiment_Analysis) - This is NLP project to know sentimen review about spotify app
+- [Car Sales Prediction](https://github.com/RIFFMBR20/Car_Sales_Prediction) - This is Data Science Project about second car sales prediction with linear regression
+- [Project_Capstone_Udemy Data analyst_and_DataScience_Course](https://github.com/RIFFMBR20/Project_Capstone_UdemyDataanalyst_and_DataScience_Course) - This repository hosts all the code and resources associated with the Udemy course "Data Science in a week" 
 - [Power BI Project : Spotify Analyst](https://github.com/RIFFMBR20/PowerBI_Project) - Data Visualisation with PowerBI from Spotify Dataset
 
 ---
