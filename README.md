@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/RIFFMBR20/RIFFMBR20/assets/95732582/b6f9f77d-c06a-4187-ad2b-9ce78b7d6bda" alt="Header Image" style="width: 50%; max-width: 300px;">
+  <img src="https://github.com/RIFFMBR20/RIFFMBR20/assets/95732582/b6f9f77d-c06a-4187-ad2b-9ce78b7d6bda" alt="Header Image" style="width: 30%; max-width: 200px;">
 </div>
 
 I am a fresh graduate with a passion for Data Science, Data Analyst, Machine Learning and AI engineer. I love to work on open-source projects and contribute to the community. Here, you can find some of my personal and collaborative projects, as well as repositories that I find useful and interesting.
@@ -24,6 +24,8 @@ I am a fresh graduate with a passion for Data Science, Data Analyst, Machine Lea
 ![Tableau](https://img.shields.io/badge/-Tableau-333?style=flat&logo=tableau)
 ![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap)
+![Golang](https://img.shields.io/badge/-Golang-333?style=flat&logo=go)
 
 ---
 
@@ -58,6 +60,7 @@ English
 - LLM (Large Language Model)
 - Machine Learning Advance
 - NLP (Natural Language Processing) Advance
+- Java For Data Mining
 
 ---
 
