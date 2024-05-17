@@ -14,7 +14,7 @@ I am a fresh graduate with a passion for Data Science, Data Analyst, Machine Lea
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333?style=flat&logo=tensorflow)
-![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-333?style=flat&logo=chart-bar)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333?style=flat&logo=jupyter)
 ![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
