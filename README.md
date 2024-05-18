@@ -37,6 +37,7 @@ I am a fresh graduate with a passion for Data Science, Data Analyst, Machine Lea
 - [Car Sales Prediction](https://github.com/RIFFMBR20/Car_Sales_Prediction) - This is Data Science Project about second car sales prediction with Decision Tree Regressor
 - [Project_Capstone_Udemy Data analyst_and_DataScience_Course](https://github.com/RIFFMBR20/Project_Capstone_UdemyDataanalyst_and_DataScience_Course) - This repository hosts all the code and resources associated with the Udemy course "Data Science in a week" 
 - [Power BI Project : Spotify Analyst](https://github.com/RIFFMBR20/PowerBI_Project) - Data Visualisation with PowerBI from Spotify Dataset
+- [Tableau Project : Customer Churn Analyst](https://public.tableau.com/app/profile/arifful.fikri2015/viz/myproject_17160160717700/Dashboard1?publish=yes) - Data Visualisation with Tableau from Customer Churn Dataset
 
 ---
 
