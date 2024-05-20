@@ -48,7 +48,7 @@ I am a fresh graduate with a passion for Data Science, Data Analyst, Machine Lea
 
 ---
 
-### 📜 Thesis Papers
+### 📜 Bachelor Thesis Paper
 
 Bahasa Indonesia
 - [Sistem Seleksi Frekuensi Optimal pada Generic Wireless Power Transfer dengan Kapasitor Switching Relay](https://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/13230) - Penelitian ini memfokuskan pada sistem pergantian kapasitor dengan relay, di mana perubahan kapasitor di pengirim memengaruhi frekuensi daya maksimum di penerima, memungkinkan penggunaan lebih dari satu frekuensi tanpa mengorbankan daya optimal dan memberikan solusi responsif untuk transfer daya efisien.
