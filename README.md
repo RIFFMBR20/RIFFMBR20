@@ -31,14 +31,20 @@ I am a fresh graduate with a passion for Data Science, Data Analyst, Machine Lea
 
 ### 🛠️ Projects
 
-- [Mendaur-App](https://github.com/Bam280/mendaur-app) - Mendaur is an application that can detect organic and inorganic garbage and provides recycling advice. Mendaur's advanced waste detection system helps clients choose recycling options.
-- [Phone Sales Analyst](https://github.com/RIFFMBR20/Phone_Sales_Analyst) - This project aims to analyze mobile phone data to gain insights into the market trends, user preferences, and product performance in market
-- [Spotify Review Sentiment Analyst](https://github.com/RIFFMBR20/App_Reviews_Sentiment_Analysis) - This is NLP project to know sentimen review about spotify app
-- [Car Sales Prediction](https://github.com/RIFFMBR20/Car_Sales_Prediction) - This is Data Science Project about second car sales prediction with Decision Tree Regressor
-- [Natural Language Processing with Disaster Tweets](https://github.com/RIFFMBR20/Natural_Language_Processing_with_Disaster_Tweets) - This is NLP Project about Disaster Tweets with Random Forest
-- [Project Capstone Udemy Data analyst and DataScience Course](https://github.com/RIFFMBR20/Project_Capstone_UdemyDataanalyst_and_DataScience_Course) - This repository hosts all the code and resources associated with the Udemy course "Data Science in a week" 
-- [Power BI Project : Spotify Analyst](https://github.com/RIFFMBR20/PowerBI_Project) - Data Visualisation with PowerBI from Spotify Dataset
-- [Tableau Project : Customer Churn Analyst](https://public.tableau.com/app/profile/arifful.fikri2015/viz/myproject_17160160717700/Dashboard1?publish=yes) - Data Visualisation with Tableau from Customer Churn Dataset
+- [Mendaur-App](https://github.com/Bam280/mendaur-app)
+- [Phone Sales Analyst](https://github.com/RIFFMBR20/Phone_Sales_Analyst)
+- [Kyphosis Analyst](https://github.com/RIFFMBR20/Project_Capstone_UdemyDataanalyst_and_DataScience_Course/blob/main/1.%20Data%20Wrangling%2C%20Exploratory%20Data%20Analysis%20(EDA)%2C%20and%20Feature%20Engineering_CapstoneProject/Kyphosis%20Analyst.pdf)
+- [Stock Daily Price Analyst](https://github.com/RIFFMBR20/Project_Capstone_UdemyDataanalyst_and_DataScience_Course/blob/main/2.%20Effective%20Data%20Visualization%20in%20Data%20Science_CapstoneProject/Stock%20Daily%20Price%20Analyst.pdf)
+- [Credit Card Prediction with Classification](https://github.com/RIFFMBR20/Project_Capstone_UdemyDataanalyst_and_DataScience_Course/blob/main/4.%20Analyst%20ClassificationIn%20Data%20Science/Credit%20Card%20Prediction%20with%20Classification.pdf)
+- [Life Expectancy Prediction with XG-boostn](https://github.com/RIFFMBR20/Project_Capstone_UdemyDataanalyst_and_DataScience_Course/blob/main/3.%20Regression%20Analysis%20in%20Data%20Science_CapstoneProject/Life_Expectancy.pdf)
+- [Diabet Prediction with Autopilot](https://github.com/RIFFMBR20/Project_Capstone_UdemyDataanalyst_and_DataScience_Course/blob/main/5.%20Data%20Science%20With%20Autopilot/Project5.pdf)
+- [Car Price Prediction With Hyperparameter](https://github.com/RIFFMBR20/Project_Capstone_UdemyDataanalyst_and_DataScience_Course/blob/main/6.Optimalization%20Model/Car%20Price%20Prediction%20With%20Hyperparameter.pdf)
+- [Car Sales Prediction With Decision Tree Regressor](https://github.com/RIFFMBR20/Car_Sales_Prediction)
+- [Spotify Review Sentiment Analyst With NLP](https://github.com/RIFFMBR20/App_Reviews_Sentiment_Analysis) 
+- [Natural Language Processing with Disaster Tweets with Random Forest ](https://github.com/RIFFMBR20/Natural_Language_Processing_with_Disaster_Tweets)
+- [Project Capstone Udemy Data analyst and DataScience Course](https://github.com/RIFFMBR20/Project_Capstone_UdemyDataanalyst_and_DataScience_Course)
+- [Power BI Project : Top Song In Indonesia Spotify Analyst](https://github.com/RIFFMBR20/PowerBI_Project)
+- [Tableau Project : Customer Churn Analyst](https://public.tableau.com/app/profile/arifful.fikri2015/viz/myproject_17160160717700/Dashboard1?publish=yes) 
 
 ---
 
