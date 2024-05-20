@@ -71,6 +71,8 @@ English
 - Machine Learning Advance
 - NLP (Natural Language Processing) Advance
 - Java For Data Mining
+- Backend
+- Front End Advanced
 
 ---
 
