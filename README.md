@@ -41,6 +41,7 @@ I am a fresh graduate with a passion for Data Science, Data Analyst, Machine Lea
 - [Car Price Prediction With Hyperparameter](https://github.com/RIFFMBR20/Project_Capstone_UdemyDataanalyst_and_DataScience_Course/blob/main/6.Optimalization%20Model/Car%20Price%20Prediction%20With%20Hyperparameter.pdf)
 - [Car Sales Prediction With Decision Tree Regressor](https://github.com/RIFFMBR20/Car_Sales_Prediction)
 - [Credit Card Fraud Detection](https://github.com/RIFFMBR20/Credit_Card_Fraud_Detection)
+- [Spam Detection](https://github.com/RIFFMBR20/Spam_Detection)
 - [Spotify Review Sentiment Analyst With Natural Language Processing](https://github.com/RIFFMBR20/App_Reviews_Sentiment_Analysis) 
 - [Disaster Tweets with Natural Language Processing](https://github.com/RIFFMBR20/Natural_Language_Processing_with_Disaster_Tweets)
 - [Project Capstone Udemy Data analyst and DataScience Course](https://github.com/RIFFMBR20/Project_Capstone_UdemyDataanalyst_and_DataScience_Course)
