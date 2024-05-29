@@ -1,10 +1,11 @@
 ### Hello 👋, I'm Arifful Fikri
 
 ---
-
+<!---
 <div align="center">
   <img src="https://github.com/RIFFMBR20/RIFFMBR20/assets/95732582/b6f9f77d-c06a-4187-ad2b-9ce78b7d6bda" alt="Header Image" style="width: 30%; max-width: 200px;">
 </div>
+-->
 
 I am a fresh graduate with a passion for Data Science, Data Analyst, Machine Learning and AI engineer. I love to work on open-source projects and contribute to the community. Here, you can find some of my personal and collaborative projects, as well as repositories that I find useful and interesting.
 
