@@ -70,12 +70,13 @@ English
 
 ### 🌱 I’m currently learning
 
+- Machine Learning
 - LLM (Large Language Model)
-- Machine Learning Advance
+- Deep learning
 - NLP (Natural Language Processing) Advance
 - Java For Data Mining
-- Backend
-- Front End Advanced
+- Backend Advanced (Javascript, Flask)
+- Front End Advanced (HTML, CSS, React)
 
 ---
 
