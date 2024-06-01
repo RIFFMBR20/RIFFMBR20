@@ -32,10 +32,17 @@ I am a fresh graduate with a passion for Data Science, Data Analyst, Machine Lea
 
 ### 🛠️ Projects
 
-- [Mendaur-App](https://github.com/Bam280/mendaur-app)
+#### Data Analyst Project
+
 - [Phone Sales Analyst](https://github.com/RIFFMBR20/Phone_Sales_Analyst)
 - [Kyphosis Analyst](https://github.com/RIFFMBR20/Project_Capstone_UdemyDataanalyst_and_DataScience_Course/blob/main/1.%20Data%20Wrangling%2C%20Exploratory%20Data%20Analysis%20(EDA)%2C%20and%20Feature%20Engineering_CapstoneProject/Kyphosis%20Analyst.pdf)
 - [Stock Daily Price Analyst](https://github.com/RIFFMBR20/Project_Capstone_UdemyDataanalyst_and_DataScience_Course/blob/main/2.%20Effective%20Data%20Visualization%20in%20Data%20Science_CapstoneProject/Stock%20Daily%20Price%20Analyst.pdf)
+- [Power BI Project : Top Song In Indonesia Spotify Analyst](https://github.com/RIFFMBR20/PowerBI_Project)
+- [Tableau Project : Customer Churn Analyst](https://public.tableau.com/app/profile/arifful.fikri2015/viz/myproject_17160160717700/Dashboard1?publish=yes) 
+
+#### Data Science Project
+
+- [Mendaur-App](https://github.com/Bam280/mendaur-app)
 - [Credit Card Prediction with Classification](https://github.com/RIFFMBR20/Project_Capstone_UdemyDataanalyst_and_DataScience_Course/blob/main/4.%20Analyst%20ClassificationIn%20Data%20Science/Credit%20Card%20Prediction%20with%20Classification.pdf)
 - [Life Expectancy Prediction with XG-boost](https://github.com/RIFFMBR20/Project_Capstone_UdemyDataanalyst_and_DataScience_Course/blob/main/3.%20Regression%20Analysis%20in%20Data%20Science_CapstoneProject/Life_Expectancy.pdf)
 - [Diabet Prediction with Autopilot](https://github.com/RIFFMBR20/Project_Capstone_UdemyDataanalyst_and_DataScience_Course/blob/main/5.%20Data%20Science%20With%20Autopilot/Project5.pdf)
@@ -46,8 +53,6 @@ I am a fresh graduate with a passion for Data Science, Data Analyst, Machine Lea
 - [Spotify Review Sentiment Analyst With Natural Language Processing](https://github.com/RIFFMBR20/App_Reviews_Sentiment_Analysis) 
 - [Disaster Tweets with Natural Language Processing](https://github.com/RIFFMBR20/Natural_Language_Processing_with_Disaster_Tweets)
 - [Project Capstone Udemy Data analyst and DataScience Course](https://github.com/RIFFMBR20/Project_Capstone_UdemyDataanalyst_and_DataScience_Course)
-- [Power BI Project : Top Song In Indonesia Spotify Analyst](https://github.com/RIFFMBR20/PowerBI_Project)
-- [Tableau Project : Customer Churn Analyst](https://public.tableau.com/app/profile/arifful.fikri2015/viz/myproject_17160160717700/Dashboard1?publish=yes) 
 
 ---
 
