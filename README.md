@@ -1,5 +1,7 @@
 ### Hello 👋, I'm Arifful Fikri
 
+![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue)
+
 ---
 <!---
 <div align="center">
@@ -85,5 +87,6 @@ English
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=RIFFMBR20&theme=dark&hide=html&layout=compact)
+
 
