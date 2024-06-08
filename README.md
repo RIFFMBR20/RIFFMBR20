@@ -47,7 +47,7 @@ I am a fresh graduate with a passion for Data Science, Data Analyst, Machine Lea
 - [Mendaur-App](https://github.com/Bam280/mendaur-app)
 - [Credit Card Prediction with Classification](https://github.com/RIFFMBR20/Project_Capstone_UdemyDataanalyst_and_DataScience_Course/blob/main/4.%20Analyst%20ClassificationIn%20Data%20Science/Credit%20Card%20Prediction%20with%20Classification.pdf)
 - [Life Expectancy Prediction with XG-boost](https://github.com/RIFFMBR20/Project_Capstone_UdemyDataanalyst_and_DataScience_Course/blob/main/3.%20Regression%20Analysis%20in%20Data%20Science_CapstoneProject/Life_Expectancy.pdf)
-- [Diabet Prediction with Autopilot](https://github.com/RIFFMBR20/Project_Capstone_UdemyDataanalyst_and_DataScience_Course/blob/main/5.%20Data%20Science%20With%20Autopilot/Project5.pdf)
+- [Diabet Prediction with Autopilot](https://github.com/RIFFMBR20/Project_Capstone_UdemyDataanalyst_and_DataScience_Course/blob/main/5.%20Data%20Science%20With%20Autopilot/Diabet%20Prediction%20with%20Autopilot.pdf)
 - [Car Price Prediction With Hyperparameter](https://github.com/RIFFMBR20/Project_Capstone_UdemyDataanalyst_and_DataScience_Course/blob/main/6.Optimalization%20Model/Car%20Price%20Prediction%20With%20Hyperparameter.pdf)
 - [Car Sales Prediction With Decision Tree Regressor](https://github.com/RIFFMBR20/Car_Sales_Prediction)
 - [Credit Card Fraud Detection with DecisionTreeClassifier](https://github.com/RIFFMBR20/Credit_Card_Fraud_Detection)
