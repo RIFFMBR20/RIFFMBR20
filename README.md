@@ -56,6 +56,10 @@ I am a fresh graduate with a passion for Data Science, Data Analyst, Machine Lea
 - [Disaster Tweets with Natural Language Processing](https://github.com/RIFFMBR20/Natural_Language_Processing_with_Disaster_Tweets)
 - [Project Capstone Udemy Data analyst and DataScience Course](https://github.com/RIFFMBR20/Project_Capstone_UdemyDataanalyst_and_DataScience_Course)
 
+#### LLM Project
+- [Personal Trainer](https://github.com/RIFFMBR20/LearnAsistantAI/tree/main/persona-trainer)
+- [News Summarizer](https://github.com/RIFFMBR20/LearnAsistantAI/tree/main/News_summarizer)
+
 ---
 
 ### 📜 Bachelor Thesis Paper
