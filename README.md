@@ -59,6 +59,8 @@ I am a fresh graduate with a passion for Data Science, Data Analyst, Machine Lea
 #### LLM Project
 - [Personal Trainer](https://github.com/RIFFMBR20/LearnAsistantAI/tree/main/persona-trainer)
 - [News Summarizer](https://github.com/RIFFMBR20/LearnAsistantAI/tree/main/News_summarizer)
+- [Team Name Generator With Langchain](https://github.com/RIFFMBR20/LearnAsistantAI/tree/main/Langchain_project_basic/teamname_generator)
+- [Ask Youtube Video With Langchain](https://github.com/RIFFMBR20/LearnAsistantAI/tree/main/News_summarizer)
 
 ---
 
