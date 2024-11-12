@@ -29,6 +29,9 @@ I am a fresh graduate with a passion for Data Science, Data Analyst, Machine Lea
 ![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap)
 ![Golang](https://img.shields.io/badge/-Golang-333?style=flat&logo=go)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 
 ---
 
