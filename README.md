@@ -32,7 +32,7 @@ I am a fresh graduate with a passion for Data Science, Data Analyst, Machine Lea
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
-![Flutter](https://img.shields.io/badge/-Java-333?style=flat&logo=flutter)
+![Flutte](https://img.shields.io/badge/-Java-333?style=flat&logo=flutter)
 
 ---
 
