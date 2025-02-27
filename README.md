@@ -87,8 +87,7 @@ English
 
 ### 🌱 I’m currently learning
 
-- Backend Advanced (Javascript, Flask)
-- Front End Advanced (HTML, CSS)
+- Flutter (Mobile Apps)
 
 ---
 
