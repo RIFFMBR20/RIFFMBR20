@@ -88,6 +88,7 @@ English
 ### 🌱 I’m currently learning
 
 - Flutter (Mobile Apps)
+- React
 
 ---
 
